@@ -13,6 +13,8 @@ Please install Ashure separately and update the `--ashure_path` parameter with t
 
 Please download the blast database in the ICTV folder and point the `--ictv_db` parameter to the ICTV_viruses.fasta file.
 
+Please download the adapters.fa  the `--adapters` parameter to this file.
+
 Please activate the conda environment before running the scripts.
 
 Usage:
